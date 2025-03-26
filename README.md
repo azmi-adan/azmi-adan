@@ -1,23 +1,11 @@
-# Azmi Adan
+# README.md  
 
-**Software Developer | Cybersecurity Enthusiast**
+Somewhere between the lines of code and the depths of system analysis, patterns emerge.  
+Not everything is as it seems. Not every system is secure.  
+Some build. Some break. Some observe.  
 
-🚀 Crafting clean code, building cool stuff, and breaking things (ethically).
+Curious?  
 
-## What I Do
-- **React.js & JavaScript** – Making the web dynamic.
-- **Cybersecurity Fundamentals** – Because knowing how to defend is just as fun as knowing how to attack.
-- **Project Builds** – If it’s not challenging, it’s probably not interesting.
-
-## Work in Progress
-Currently working on a **University Tours Website** 🚧. You’ll see it when it’s done.
-
-## Plot Twist
-I might be an introvert, but my code speaks volumes.
-
-📫 Reach out if you have something interesting: azmi.adan2032@gmail.com
-
----
-
-> "Some people write stories, I write code. Same thing, different syntax."
-
+🔗 [LinkedIn](https://linkedin.com/in/azmi-adan-harar-47042332b)  
+🐙 [GitHub](https://github.com/azmi-adan)  
+📩 [Email](mailto:azmi.adan2032@gmail.com)  
